@@ -6,3 +6,7 @@ Những chia sẻ nhỏ của mình về smart contract. Thoải mái tạo issu
 
 - Openzeppelin
   - [SafeERC20](docs/openzeppelin/SafeERC20.md)
+
+## Mẹo
+
+- [Modifier](tricks/Modifier.md)
