@@ -10,3 +10,7 @@ Những chia sẻ nhỏ của mình về smart contract. Thoải mái tạo issu
 ## Mẹo
 
 - [Modifier](tricks/Modifier.md)
+
+## Funny
+
+- [Calldataload](funny/Calldataload.md)
