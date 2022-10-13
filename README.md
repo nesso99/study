@@ -6,6 +6,8 @@ Những chia sẻ nhỏ của mình về smart contract. Thoải mái tạo issu
 
 - Openzeppelin
   - [SafeERC20](docs/openzeppelin/SafeERC20.md)
+- Pancakeswap
+  - [BNBStaking](docs/pancakeswap/BnbStaking.md)
 
 ## Mẹo
 
